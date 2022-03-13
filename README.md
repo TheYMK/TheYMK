@@ -61,8 +61,8 @@ let location = ' Nantes, France ';
 
 ### My Stats
 
-<img align="right" width="40%" alt="Top languages" src="https://github-readme-stats-1-psi.vercel.app/api/top-langs/?username=TheYMK&theme=onedark&count_private=true&layout=compact" />
-<img align="left" width="50%" alt="Github Stats" src="https://github-readme-stats-1-psi.vercel.app/api?username=TheYMK&show_icons=true&theme=onedark&count_private=true" />
+<img align="right" width="40%" alt="Top languages" src="https://github-readme-stats-1-psi.vercel.app/api/top-langs/?username=TheYMK&theme=onedark&count_private=true&layout=compact&langs_count=8" />
+<img align="left" width="50%" alt="Github Stats" src="https://github-readme-stats-1-psi.vercel.app/api?username=TheYMK&show_icons=true&theme=onedark&count_private=true&include_all_commits=true" />
 
 [cryptonovae]: https://cryptonovae.com/
 [ynov]: https://www.ynov-nantes.com/
