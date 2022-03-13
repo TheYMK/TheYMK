@@ -61,7 +61,7 @@ let location = ' Nantes, France ';
 
 ### My Stats
 
-[![Kaym's Github Stats](https://github-readme-stats.vercel.app/api?username=TheYMK&hide=stars&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Kaym's Github Stats](https://github-readme-stats.vercel.app/api?username=TheYMK&hide=stars&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&show_owner)
 
 [cryptonovae]: https://cryptonovae.com/
 [ynov]: https://www.ynov-nantes.com/
