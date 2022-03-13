@@ -1,10 +1,11 @@
 ### Hey World !
 
-```javascript{
-const full_name = ' Kaym Kassai ';
-let age = 23;
-let job = ' Software Engineer (Web Developer) ';
-let location = ' Nantes, France ';
+```javascript
+{
+  const full_name = " Kaym Kassai ";
+  let age = 23;
+  let job = " Software Engineer (Web Developer) ";
+  let location = " Nantes, France ";
 }
 ```
 
