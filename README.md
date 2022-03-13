@@ -14,7 +14,7 @@ let location = ' Nantes, France ';
 
 - 💼 I am currently working for [Cryptonovae][cryptonovae]
 - 👨🏽‍🎓 I am pursuing a master's degree in web development at [Ynov Campus][ynov]
-- 💻 I do freelancing as well so if you have a project in mind and need help, I am never too far 👉🏽🧑🏾‍🦱👈🏽
+- 💻 I do freelancing as well so if you have a project in mind and need help, [I am never too far 👉🏽🧑🏾‍🦱👈🏽][website]
 - 🥅 2022 Goals: Learn more about `web3`, `postgres`, `spring boot` and `angular`
 - ⚡ Fun fact: I speak 6 languages:
   🇫🇷 **_French_**, 🇺🇸 **_English_**, 🇨🇳 **_Chinese_**, 🇰🇲 **_Comorian_**, 🇪🇸 **_Spanish_** and 🇸🇦 **_Arabic_**
