@@ -18,7 +18,7 @@ You will like those projects!
 ###### h6 Heading
 
 
-## Horizontal Rules
+# Horizontal Rules
 
 ___
 
@@ -27,7 +27,7 @@ ___
 ***
 
 
-## Typographic replacements
+# Typographic replacements
 
 Enable typographer option to see result.
 
@@ -40,7 +40,7 @@ test.. test... test..... test?..... test!....
 "Smartypants, double quotes" and 'single quotes'
 
 
-## Emphasis
+# Emphasis
 
 **This is bold text**
 
@@ -53,7 +53,7 @@ _This is italic text_
 ~~Strikethrough~~
 
 
-## Blockquotes
+# Blockquotes
 
 
 > Blockquotes can also be nested...
@@ -61,7 +61,7 @@ _This is italic text_
 > > > ...or with spaces between arrows.
 
 
-## Lists
+# Lists
 
 Unordered
 
@@ -89,7 +89,7 @@ Start numbering with offset:
 1. bar
 
 
-## Code
+# Code
 
 Inline `code`
 
@@ -117,7 +117,7 @@ var foo = function (bar) {
 console.log(foo(5));
 ```
 
-## Tables
+# Tables
 
 | Option | Description |
 | ------ | ----------- |
@@ -134,7 +134,7 @@ Right aligned columns
 | ext    | extension to be used for dest files. |
 
 
-## Links
+# Links
 
 [link text](http://dev.nodeca.com)
 
@@ -143,7 +143,7 @@ Right aligned columns
 Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 
-## Images
+# Images
 
 ![Minion](https://octodex.github.com/images/minion.png)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
@@ -157,7 +157,7 @@ With a reference later in the document defining the URL location:
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 
-## Plugins
+# Plugins
 
 The killer feature of `markdown-it` is very effective support of
 [syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
