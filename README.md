@@ -67,7 +67,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Svelte       4 hrs 52 mins   █████████░░░░░░░░░░░░░░░░   35.42 %
+TypeScript   4 hrs 16 mins   ███████▓░░░░░░░░░░░░░░░░░   31.08 %
+JavaScript   2 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
+SCSS         1 hr 42 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+CSS          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
