@@ -13,7 +13,7 @@
 
 **_About me_**
 
-- 💼 I am currently working for [Cryptonovae][cryptonovae]
+- 💼 I am currently working for [Capgemini][capgemini]
 - 👨🏽‍🎓 I am pursuing a master's degree in web development at [Ynov Campus][ynov]
 - 💻 I do freelancing as well so if you have a project in mind and need help, [I am never too far 👉🏽🧑🏾‍🦱👈🏽][website]
 - 🥅 2022 Goals: Learn more about `web3`, `postgres`, `spring boot` and `angular`
@@ -79,6 +79,6 @@ Other   20 mins         ██████████████████�
 <img align="right" width="40%" alt="Top languages" src="https://github-readme-stats-1-psi.vercel.app/api/top-langs/?username=TheYMK&theme=onedark&count_private=true&layout=compact&langs_count=8" />
 <img align="left" width="50%" alt="Github Stats" src="https://github-readme-stats-1-psi.vercel.app/api?username=TheYMK&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&custom_title=Github Stats" />
 
-[cryptonovae]: https://cryptonovae.com/
+[capgemini]: https://www.capgemini.com/
 [ynov]: https://www.ynov-nantes.com/
 [website]: https://kaymkassai.com
