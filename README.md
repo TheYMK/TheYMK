@@ -4,7 +4,7 @@
 {
   const full_name = " Kaym Kassai ";
   let age = 24;
-  let job = " Software Engineer (Web Developer) ";
+  let job = " Software Engineer ";
   let location = " Nantes, France ";
 }
 ```
