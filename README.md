@@ -67,10 +67,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 38 mins   ██████████▒░░░░░░░░░░░░░░   41.84 %
-YAML         3 hrs 9 mins    ███████░░░░░░░░░░░░░░░░░░   28.49 %
-Docker       1 hr 19 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
-Other        1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+YAML         4 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   32.30 %
+JavaScript   3 hrs 5 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
+Other        2 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
 ```
 
 <!--END_SECTION:waka-->
