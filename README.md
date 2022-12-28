@@ -67,8 +67,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML         5 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   27.25 %
-Other        3 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
+YAML         4 hrs 44 mins   ███████▒░░░░░░░░░░░░░░░░░   28.99 %
+Svelte       2 hrs 56 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
+Other        2 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
 ```
 
 <!--END_SECTION:waka-->
