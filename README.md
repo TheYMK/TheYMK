@@ -67,8 +67,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Svelte       1 hr 18 mins    ███████████░░░░░░░░░░░░░░   43.60 %
-Other        57 mins         ████████░░░░░░░░░░░░░░░░░   32.01 %
+Svelte       1 hr 6 mins     ██████████▒░░░░░░░░░░░░░░   41.53 %
+Other        57 mins         █████████░░░░░░░░░░░░░░░░   36.02 %
 ```
 
 <!--END_SECTION:waka-->
