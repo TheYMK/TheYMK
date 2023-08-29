@@ -67,8 +67,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   35 mins         ████████████████▓░░░░░░░░   66.43 %
-YAML         18 mins         ████████▒░░░░░░░░░░░░░░░░   33.57 %
+TypeScript   35 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
