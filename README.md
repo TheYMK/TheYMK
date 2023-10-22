@@ -67,7 +67,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart             50 mins         ███████████████████████░░   91.40 %
+XML              1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Ezhil            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+YAML             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Swift            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
