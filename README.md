@@ -3,7 +3,7 @@
 ```javascript
 {
   const full_name = " Kaym Kassai ";
-  let age = 24;
+  let age = 25;
   let job = " Software Engineer ";
   let location = " Nantes, France ";
 }
@@ -14,7 +14,6 @@
 **_About me_**
 
 - 💼 I am currently working for [Capgemini][capgemini]
-- 👨🏽‍🎓 I am pursuing a master's degree in web development at [Ynov Campus][ynov]
 - 💻 I do freelancing as well so if you have a project in mind and need help, [I am never too far 👉🏽🧑🏾‍🦱👈🏽][website]
 - 🥅 2022 Goals: Learn more about `web3`, `postgres`, `spring boot` and `angular`
 - ⚡ Fun fact: I speak 6 languages:
